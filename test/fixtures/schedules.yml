@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  date: 2021-03-23 17:11:05
+  duty_day: 2021-03-23 17:11:05
+  legal_time: 2021-03-23 17:11:05
+  time_out: 2021-03-23 17:11:05
+
+two:
+  user_id: 1
+  date: 2021-03-23 17:11:05
+  duty_day: 2021-03-23 17:11:05
+  legal_time: 2021-03-23 17:11:05
+  time_out: 2021-03-23 17:11:05
